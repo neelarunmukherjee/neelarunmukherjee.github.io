@@ -1,51 +1,19 @@
-# Zetsu
+# James-QiuHaoran.github.io
 
-> **Zetsu** - is a clean theme for Jekyll :smirk:
+## Notice - Website Migration
 
+This website https://james-qiuhaoran.github.io has been migrated, updated (and perhaps redirected) to another website https://haoran-qiu.com (also https://haoranqiu.web.illinois.edu). The old website has been serving for a long time until I went to UIUC.
 
+I plan to keep the old website here in this repository (index.html.old) and won't update anything any more. However, the website framework is free to use. If you like it, change it to serve as your personal website!
 
-> :warning:
-  This theme requires ruby and rubygems installed
-
-* [x] Clean layout
-* [x] Resposive layout
-* [x] Preprocessor SASS
-* [x] CSS minified
-* [x] HTML minified
-* [x] Pagination
-* [x] Syntax highlight
-* [x] Author config
-* [x] Social links
-* [x] Share posts
-* [x] Comments with Disqus
+- index.html now is a redirection html file.
 
 ---
 
-### Start in 4 steps
+## Brief Intro (OLD)
 
-1. Download or clone repo `git clone git@github.com:nandomoreirame/zetsu.git`
-2. Enter the folder: `cd zetsu/`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `jekyll serve`
+This is my personal website using bootstrap. The website URL is: https://james-qiuhaoran.github.io/index.html.
 
-Access, [localhost:4000/zetsu](http://localhost:4000/zetsu/)
+(You can also access my website from i.cs.hku.hk/~hrqiu employed on server in the CS Dept. of HKU.)
 
-### Deploy in Github pages in 2 steps
-
-1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
-2. Run `rake site:publish` for build and publish on Github
-
-[Demo](https://nandomoreirame.github.io/zetsu/)
-
-![Zetsu - free Jekyll theme](/screenshot.png)
-
----
-
-### Copyright and license
-
-It is under [the MIT license](/LICENSE).
-
-> :warning:
-  Please remove metas `<meta name="robots" content="noindex">` and `<meta name="googlebot" content="noindex">` in `_layouts/default.html`
-
-Enjoy :yum:
+You can see my self-introduction, blogs, some experiences, footprint, social contacts and so on. WELCOME!!

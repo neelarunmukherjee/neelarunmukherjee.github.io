@@ -1,11 +1,9 @@
-source "https://rubygems.org"
+# If you have OpenSSL installed, we recommend updating
+# the following line to use "https"
+source 'http://rubygems.org'
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
-
-gem "jekyll", "~> 3.8.4"
-
-group :jekyll_plugins do
-    gem "jekyll-menus", "~> 0.6.0"
-    gem "jekyll-paginate-v2", "~> 1.9"
-    gem "jekyll-paginate", "~> 1.1"
+group :development do
+  gem 'rake', '~> 10.4.2'
+  gem 'sass', '~> 3.4.10'
+  gem 'jekyll', '~> 2.5.3'
 end

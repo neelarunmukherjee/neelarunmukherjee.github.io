@@ -1,17 +1,27 @@
-# Much-Worse jekyll theme
+# Fresh
 
-This theme is avaiable under [MIT License](https://opensource.org/licenses/MIT).
+A personal theme with a blog for Stackbit. [Live Demo](https://themes.stackbit.com/demos/fresh)
 
-This is a modified version of [Steve Miller's NGVM theme](http://jekyllthemes.org/themes/svm-ngvb/). Since this work is a derivative of Prof. Miller's, therefore it is only fair that I honour his self-deprecating spirit and name this **much-worse**. I prefer large seriff fonts and minimal coloring and styling. Apart form the typography, color scheme and layout,
-this theme has two useful changes:
+Click the button below to use this theme in Gatsby, Hugo or Jekyll via the Stackbit site builder:
 
-- It allows you to maintain your website as a subdirectory on your university of company domain (e.g. http://university.edu/department/people/your-website). Most Jekyll blogs are
-designed to be hosted at custom domain names.
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-fresh)
 
-- Most jekyll themes are blog-centric, or single page websites. This theme lets you create multi-page website with a blog if you want.
+### About Stackbit
 
-Both the above are not seminal achievements in science, but they are useful. This theme also supports site analytics including [Statcounter](http://statcounter.com) and major comment providers for blogs.
+[Stackbit](https://www.stackbit.com/) enables features like inline content editing, live previews and collaboration tools for Jamstack sites.
 
-See it in action [here](http://people.csail.mit.edu/gchauras).
+## Working with This Theme
 
-Feel free to send me pull requests with better responsive performance or cleaner HTML/CSS.
+This theme is written in Unibit. Themes written in Unibit can be converted to other static sites generators (SSG) such as Gatsby, Hugo, Jekyll and Next.js using [Stackbit Site Builder](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-fresh). The site builder will generate the SSG-specific version of this theme and push it to your own GitHub repository. You are free to use and modify the generated source however you wish.
+
+<img src="https://assets.stackbit.com/images/unibit-diagram.png" width="600" />
+
+### Editing This Theme
+
+While we recommend using the [site builder](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-fresh) to generate a version of the theme for any of the supported static site generators, you can develop locally using the Unibit CLI.  For details on how to install and use Unibit, visit the [documentation](https://docs.stackbit.com/site-builder/unibit/).
+
+### Develop Using CodeSandbox
+
+You can also develop this theme in the browser using Unibit via CodeSandbox.
+
+[Fork in CodeSandbox](https://codesandbox.io/s/github/stackbithq/stackbit-theme-fresh)

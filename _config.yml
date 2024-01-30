@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YNeelarun Mukherjee"
+title                    : "Neelarun Mukherjee"
 title_separator          : "-"
 name                     : &name "Neelarun Mukherjee"
 description              : &description "personal description"
@@ -84,10 +84,10 @@ author:
   avatar           : "nm-img1.JPG"
   bio              : "Ph.D. Candidate @UT Austin"
   location         : "Austin, TX"
-  employer         : "Department of Earth and Planetary Sciences, Jackson School of Geosciences"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=kVJuaB4AAAAJ&hl=en&authuser=3"
-  email            : "mailto: neelarun@utexas.edu"
+  email            : "neelarun@utexas.edu"
   researchgate     : "https://www.researchgate.net/profile/Neelarun-Mukherjee"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/neelarunmukherjee"
+  github           : "neelarunmukherjee"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/neelarun-mukherjee/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0517-6879"
+  linkedin         : "neelarun-mukherjee"
+  orcid            : "https://orcid.org/0000-0002-0517-6879"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/neelarun_m"
+  x                : "neelarun_m"
   vine             :
   weibo            :
   xing             :

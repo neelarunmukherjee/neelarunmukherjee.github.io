@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-For a complete CV, you can download the [PDF](../cv/NM_CV_2024.pdf).
+For a complete CV, you can download the [PDF](../files/NM_CV_2024.pdf).

@@ -8,6 +8,6 @@ date: May. 2019 - Jul. 2019
 location: "Rennes, France"
 ---
 
-· Designed and performed a 3D experiment for laser scanning of Rayleigh Taylor instability of miscible fluids in a porous media \\
-· Studied the variation of onset time and mixing length in pore scale for density-driven instability \\
+· Designed and performed a 3D experiment for laser scanning of Rayleigh Taylor instability of miscible fluids in a porous media 
+· Studied the variation of onset time and mixing length in pore scale for density-driven instability 
 · Analyzed anisotropy with the change in mixing length using inverse formulation

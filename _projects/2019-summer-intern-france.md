@@ -4,7 +4,6 @@ collection: projects
 type: "Undergraduate Summer Internship"
 permalink: /projects/2019-summer-intern-france
 venue: "Geosciences Rennes, Université de Rennes1"
-date: May. 2019 - Jul. 2019
 location: "Rennes, France"
 ---
 

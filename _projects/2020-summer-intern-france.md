@@ -3,8 +3,7 @@ title: "Numerical study of Rayleigh Taylor Instabilities in porous media with ge
 collection: projects
 type: "Undergraduate Summer Internship"
 permalink: /projects/2020-summer-intern-france
-venue: "UMR METIS, Sorbonne Université"
-date: Apr. 2020 -- Jul. 2020
+venue: "UMR METIS, Sorbonne Universite"
 location: "Paris, France"
 ---
 

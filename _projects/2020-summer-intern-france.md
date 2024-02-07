@@ -7,6 +7,7 @@ venue: "UMR METIS, Sorbonne Universite"
 location: "Paris, France"
 ---
 
-Developed a flow and transport code for Rayleigh Taylor Instability in porous media
-Coupled effective conductivity calculation with flow and transport by current injection through it as the instability evolves 
-Analyzed anisotropy with the change in mixing length using inverse formulation
+-Developed a flow and transport code for Rayleigh Taylor Instability in porous media
+-Coupled effective conductivity calculation with flow and transport by current injection through it as the instability evolves 
+-Analyzed anisotropy with the change in mixing length using inverse formulation
+

@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=kVJuaB4AAAAJ&hl=en&authuser=2&oi=ao).
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

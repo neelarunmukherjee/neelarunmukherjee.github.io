@@ -23,8 +23,6 @@ redirect_from:
 ### Research Focus
 I investigate groundwater flow and reactive solute transport in Arctic permafrost landscapes, with particular emphasis on the supra-permafrost aquifer zone.  
 My work aims to understand how thawing permafrost and changing climate conditions influence carbon cycling, groundwater discharge, and greenhouse gas emissions.
-
-### Research Approach
 I integrate field observations, laboratory experiments, remote sensing data, and numerical modeling using high-performance computing.  
 My approach focuses on developing mechanistic frameworks to quantify the movement of heat, nutrients, and carbon through complex subsurface environments.
 

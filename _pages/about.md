@@ -1,17 +1,56 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am originally from <a href="https://en.wikipedia.org/wiki/Kolkata" style="color: #5b4c5c;"> Kolkata</a>, the capital city of West Bengal in India also known as a the <a href="https://theculturetrip.com/asia/india/articles/why-kolkata-is-the-city-of-joy-in-25-instagram-photos/" style="color: #5b4c5c;">City of Joy</a>. I am currently a Ph.D. candidate at the Department of Earth and Planetary Sciences, <a href="https://www.jsg.utexas.edu/" style="color: #5b4c5c;"> Jackson School of Geosciences</a>, <a href="https://www.utexas.edu/" style="color: #5b4c5c;">University of Texas at Austin</a>. I am working with <a href="https://www.jsg.utexas.edu/researcher/bayani_cardenas/" style="color: #5b4c5c;">  Dr. Bayani Cardenas</a> on flow and reactive transport processes within supra-permafrost aquifers in continuous permafrost watersheds. 
+### Education
+- **Ph.D. in Hydrology**  
+  Department of Earth and Planetary Sciences, [Jackson School of Geosciences](https://www.jsg.utexas.edu/), [University of Texas at Austin](https://www.utexas.edu/) (2021–present)  
+  *Dissertation:* Flow and transport processes in supra-permafrost aquifers in the Arctic.  
+  *Advisor:* [Dr. M. Bayani Cardenas](https://www.jsg.utexas.edu/researcher/bayani_cardenas/)
 
-My primary focus is unraveling the intricacies of flow and reactive transport in the subsurface. My research aims to contribute solutions to the escalating global drinking water crisis caused by groundwater contamination. To achieve this, I am committed to developing robust models that can effectively explain the complexities of transport phenomena in the subsurface, particularly within the critical zone. I am particularly intrigued by the challenges posed by increasing human interference in these processes. Currently, my research is honed in on the intricate transport dynamics unfolding in the thawing Arctic permafrost, driven by the effects of global warming. This exploration extends beyond the water cycle implications, delving into the substantial reservoir of greenhouse gases, such as CH4, CO2, and NOx, stored in the Arctic permafrost. As Earth warms, releasing these gases will significantly impact the global climate. My interest lies in comprehending the nuanced subsurface transport physics at play in the dynamic Arctic environment, employing a combination of field and computational experiments.
+- **Integrated B.S.–M.S. in Exploration Geophysics**  
+  [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/), India (2016–2021)  
+  *Thesis:* Numerical modeling of seawater intrusion considering diurnal head changes and matrix compression-rebound.
 
-I completed my bachelors and masters (<a href="https://erp.iitkgp.ac.in/ERPWebServices/curricula/CurriculaSubjectsList.jsp?stuType=UG&splCode=EX" style="color: #5b4c5c;">Integrated BS-MS </a>) in Exploration Geophysics from <a href="http://www.iitkgp.ac.in/" style="color: #5b4c5c;">Indian Institute of Technology, Kharagpur </a> in India. 
+---
 
+### Research Focus
+I investigate groundwater flow and reactive solute transport in Arctic permafrost landscapes, with particular emphasis on the supra-permafrost aquifer zone.  
+My work aims to understand how thawing permafrost and changing climate conditions influence carbon cycling, groundwater discharge, and greenhouse gas emissions.
 
+### Research Approach
+I integrate field observations, laboratory experiments, remote sensing data, and numerical modeling using high-performance computing.  
+My approach focuses on developing mechanistic frameworks to quantify the movement of heat, nutrients, and carbon through complex subsurface environments.
+
+---
+
+### Updates
+- **April 2025** - Awarded **DOE Earth System Science PI Meeting Travel Grant** to present the poster *Impacts fo Changing Hydrologic Conditions on Groundwater Flow and Reactive Solute Transport in Supra-permafrost Aquifers* at the Annual PI Meeting at Reston, Virginia.
+- **February 2025** - Received **Outstanding Student Presentation Award (OSPA)** at **AGU Fall Meeting**, Washington, DC.
+- **December 2024** - Presented research talk: *"Impacts of climate conditions on groundwater flow and reactive solute transport in supra-permafrost aquifers"*, AGU Fall Meeting, Washington, DC.
+- **October 2024** - 1st Place at **Jackson School of Geosciences Hackathon** for work on computational reproducibility.
+- **September 2024** - Published first-author paper in *Journal of Hydrology*:  
+  *Mukherjee, N., et al. (2024). Water and carbon fluxes from a supra-permafrost aquifer to a stream across hydrologic states.* [DOI](https://doi.org/10.1016/j.jhydrol.2024.132285)
+- **September 2024** - Co-authored paper selected as **Editors' Choice** in *Physics of Fluids*:  
+  *Virappane, S., Azadi, R., Mukherjee, N., and Tsai, P. A. (2024). Three-dimensional simulations of two-phase plug flow in a microfluidic channel.* [DOI](https://doi.org/10.1063/5.0220101)
+- **April 2024** - Awarded **DOE Earth System Science PI Meeting Travel Grant** for research presentation at Reston, Virginia.
+- **December 2023** - Poster presentation at **AGU Fall Meeting**: *Investigating groundwater flow and thermal transport in Arctic supra-permafrost aquifers*.
+- **November 2023** - Received **CUAHSI Reactive Transport Workshop Travel Grant** (hosted at Pacific Northwest National Laboratory).
+- **May 2023** - Awarded **Off-Campus Research Grant** by Jackson School of Geosciences for Arctic fieldwork (Toolik Field Station, Alaska).
+- **December 2022** - Oral presentation at **AGU Fall Meeting**, Chicago:  
+  *Groundwater contribution to stream flow and organic matter chemistry in the Arctic.*
+
+---
+
+### About Me
+I am originally from [Kolkata](https://en.wikipedia.org/wiki/Kolkata), the capital city of West Bengal in India, often called the [City of Joy](https://theculturetrip.com/asia/india/articles/why-kolkata-is-the-city-of-joy-in-25-instagram-photos/).  
+I have been fascinated by subsurface processes since my undergraduate days and am deeply interested in how groundwater shapes ecosystems, carbon cycles, and climate dynamics.  
+Outside of research, I enjoy exploring landscapes shaped by water and engaging with outreach programs to inspire the next generation of scientists.
+
+---

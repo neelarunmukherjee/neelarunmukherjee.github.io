@@ -11,3 +11,5 @@ location: "Paris, France"
 - Coupled effective conductivity calculation with flow and transport by current injection through it as the instability evolves 
 - Analyzed anisotropy with the change in mixing length using inverse formulation
 
+<iframe src="https://neelarunmukherjee.github.io/files/Internship_Report_Summer2020__Sorbonne_Universite_.pdf" width="100%" height="600px">
+</iframe>

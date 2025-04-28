@@ -16,7 +16,7 @@ redirect_from:
 
 - **Integrated B.S.& M.S. in Exploration Geophysics**  
   [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/) (2016–2021)  
-  *Thesis:* Numerical modeling of seawater intrusion considering diurnal head changes and matrix compression-rebound. [DOI](http://dx.doi.org/10.13140/RG.2.2.15345.25443)
+  *Thesis:* Numerical modeling of seawater intrusion considering diurnal head changes and matrix compression-rebound [DOI](http://dx.doi.org/10.13140/RG.2.2.15345.25443).
   *Advisors:* [Dr. Abhijit Mukherjee](https://www.iitkgp.ac.in/department/GG/faculty/gg-abhijit), [Dr. Aditya Bandyopadhyay](https://www.iitkgp.ac.in/department/ME/faculty/me-aditya)
 
 ---

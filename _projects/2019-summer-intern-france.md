@@ -10,3 +10,5 @@ location: "Rennes, France"
 - Designed and performed a 3D experiment for laser scanning of Rayleigh Taylor instability of miscible fluids in a porous media 
 - Studied the variation of onset time and mixing length in pore scale for density-driven instability 
 - Analyzed anisotropy with the change in mixing length using inverse formulation
+<iframe src="https://neelarunmukherjee.github.io/files/Internship_Report_Summer_2019__Geoscience_Rennes_.pdf" width="100%" height="600px">
+</iframe>

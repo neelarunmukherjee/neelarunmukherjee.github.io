@@ -30,7 +30,7 @@ I investigate groundwater flow and reactive solute transport in Arctic permafros
 - **April 2025** - Awarded **DOE Earth System Science PI Meeting Travel Grant** to present the poster *Impacts fo Changing Hydrologic Conditions on Groundwater Flow and Reactive Solute Transport in Supra-permafrost Aquifers* at the Annual PI Meeting at Reston, Virginia.
 - **February 2025** - Received **Outstanding Student Presentation Award (OSPA)** at **AGU Fall Meeting**, Washington, DC [LINK](https://www.jsg.utexas.edu/news/2025/04/phd-student-wins-agu-outstanding-presentation-award/).
 - **December 2024** - Presented research talk: *"Impacts of climate conditions on groundwater flow and reactive solute transport in supra-permafrost aquifers"*, AGU Fall Meeting, Washington, DC.
-- **October 2024** - 1st Place at **Jackson School of Geosciences Hackathon** on computational reproducibility. [LINK](https://github.com/sfomel/JSG-Open-Source-Hackathon-2024/blob/b0cc3724fd5084a24a18962e54439b22e0bf7b3c/Teams.md).
+- **October 2024** - 1st Place at **Jackson School of Geosciences Hackathon** on computational reproducibility. [LINK](https://www.jsg.utexas.edu/geoscience-hackathon/past-hackathons/).
 - **September 2024** - Published first-author paper in *Journal of Hydrology*:  
   *Mukherjee, N., et al. (2024). Water and carbon fluxes from a supra-permafrost aquifer to a stream across hydrologic states.* [DOI](https://doi.org/10.1016/j.jhydrol.2024.132285)
 - **September 2024** - Co-authored paper selected as **Editors' Choice** in *Physics of Fluids*:  

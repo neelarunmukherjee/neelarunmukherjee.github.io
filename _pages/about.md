@@ -10,12 +10,12 @@ redirect_from:
 
 ### Education
 - **Ph.D. in Hydrology**  
-  Department of Earth and Planetary Sciences, [Jackson School of Geosciences](https://www.jsg.utexas.edu/), [University of Texas at Austin](https://www.utexas.edu/) (2021–present)  
+  [Department of Earth and Planetary Sciences](https://eps.jsg.utexas.edu/), [Jackson School of Geosciences](https://www.jsg.utexas.edu/), [University of Texas at Austin](https://www.utexas.edu/) (2021–present)  
   *Dissertation:* Flow and transport processes in supra-permafrost aquifers in the Arctic.  
   *Advisors:* [Dr. M. Bayani Cardenas](https://www.jsg.utexas.edu/researcher/bayani_cardenas/), [Dr. Ann Jingyi Chen](https://oden.utexas.edu/people/directory/Ann-Chen/)
 
 - **Integrated B.S. & M.S. in Exploration Geophysics**  
-  [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/) (2016–2021)  
+  [Department of Geology and Geophysics](https://www.iitkgp.ac.in/department/GG), [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/) (2016–2021)  
   *Thesis:* Numerical modeling of seawater intrusion considering diurnal head changes and matrix compression-rebound. [DOI](http://dx.doi.org/10.13140/RG.2.2.15345.25443)  
   *Advisors:* [Dr. Abhijit Mukherjee](https://www.iitkgp.ac.in/department/GG/faculty/gg-abhijit), [Dr. Aditya Bandyopadhyay](https://www.iitkgp.ac.in/department/ME/faculty/me-aditya)
 

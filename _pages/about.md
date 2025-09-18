@@ -29,7 +29,7 @@ I integrate field observations, laboratory experiments, remote sensing data, and
 ---
 
 ### Updates
--**September 2025** - Visiting student at **Oak Ridge National Laboratory**. Developed a workflow by coupling reactive transport in PFLOTRAN with integrated flow and heat transport with freeze-thaw in ATS. 
+- **September 2025** - Visiting student at **Oak Ridge National Laboratory**. Developed a workflow by coupling reactive transport in PFLOTRAN with integrated flow and heat transport with freeze-thaw in ATS. 
 - **April 2025** – Awarded a **DOE Earth System Science PI Meeting Travel Grant** to present the poster *Impacts of Changing Hydrologic Conditions on Groundwater Flow and Reactive Solute Transport in Supra-Permafrost Aquifers* at the annual PI meeting in Reston, Virginia.
 - **February 2025** – Received the **Outstanding Student Presentation Award (OSPA)** at the **AGU Fall Meeting**, Washington, DC. [LINK](https://www.jsg.utexas.edu/news/2025/04/phd-student-wins-agu-outstanding-presentation-award/)
 - **December 2024** – Delivered a research talk: *Impacts of Climate Conditions on Groundwater Flow and Reactive Solute Transport in Supra-Permafrost Aquifers*, AGU Fall Meeting, Washington, DC. [LINK](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1553245)
@@ -64,4 +64,5 @@ Over time, my interest in flow shifted gears—from engineered machines to natur
 My academic journey has since taken me from the warmth of Kolkata and Kharagpur to the heat of Texas and the chill of the Arctic, where I now study subsurface flow, thawing permafrost, and reactive transport using fieldwork and numerical models. Outside of research, I enjoy traveling to places colder than my dataset, hiking in unfamiliar terrains, playing the violin, and photographing natural landscapes—often looking for fluid patterns even when none are required.
 
 ---
+
 

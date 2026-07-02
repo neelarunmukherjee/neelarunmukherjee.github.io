@@ -29,6 +29,8 @@ I am a Ph.D. candidate in Hydrology at the [University of Texas at Austin](https
 
 ### Updates
 
+- **June 2026** – Started Graduate Internship (GRO) at **Oak Ridge National Lab**, Tennessee: Working on reactiuve transport modeling of Carbon in Supra-permafrost Aquifers. Added new capabilities in the ATS-PFLOTRAN codebase for gas phase diffusion of species in Arctic soils. 
+
 - **December 2025** – Presented two talks at the **AGU Fall Meeting**, New Orleans:
   - *The Effects of Weather Variability on Supra-Permafrost Thermal Hydrology* (Talk) [LINK](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1934764)
   - *Hydrologic and Thermal Changes in Supra-Permafrost Soils and Aquifers Over the Last Four Decades of Warming* (Talk) [LINK](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1934167)

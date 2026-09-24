@@ -41,6 +41,9 @@ I am a Ph.D. candidate in Hydrology at the [University of Texas at Austin](https
 
 - **September 2025** – Visiting student at **Oak Ridge National Laboratory**. Developed a workflow by coupling reactive transport in PFLOTRAN with integrated flow and heat transport with freeze-thaw in ATS.
 
+<details markdown="1">
+<summary style="cursor: pointer; font-weight: bold;">See more updates</summary>
+
 - **April 2025** – Awarded a **DOE Earth System Science PI Meeting Travel Grant** to present the poster *Impacts of Changing Hydrologic Conditions on Groundwater Flow and Reactive Solute Transport in Supra-Permafrost Aquifers* at the annual PI meeting in Reston, Virginia.
 
 - **February 2025** – Received the **Outstanding Student Presentation Award (OSPA)** at the **AGU Fall Meeting**, Washington, DC. [LINK](https://www.jsg.utexas.edu/news/2025/04/phd-student-wins-agu-outstanding-presentation-award/)
@@ -80,6 +83,8 @@ I am a Ph.D. candidate in Hydrology at the [University of Texas at Austin](https
 - **May 2019** – Received the *CNRS Research Fellowship* for a summer internship at Geosciences Rennes, France.
 
 - **2016–2021** – Awarded the *Inspire Scholarship* by the Department of Science and Technology, Government of India: awarded full tuition support for pursuing undergraduate studies at IIT Kharagpur.
+
+</details>
 
 ---
 ### About My Origin

@@ -15,5 +15,5 @@ author_profile: true
 {% assign count = group.size %}
 {% for post in group reversed %}
   {% assign idx = count | minus: forloop.index | plus: 1 %}
-<p>[{{ idx }}] {{ post.citation | strip | replace: "Mukherjee, N.", "<strong>Mukherjee, N.</strong>" | replace: "Mukherjee, Neelarun", "<strong>Mukherjee, Neelarun</strong>" }} {% if post.pubtype == "Preprints & Submitted Manuscripts" %}<em>({{ post.venue }})</em>{% endif %} {% if post.paperurl %}[<a href="{{ post.paperurl }}" target="_blank" rel="noopener">DOI</a>]{% endif %} [<a href="{{ base_path }}{{ post.url }}">More</a>]</p>
+<p>[{{ idx }}] {{ post.citation | strip | replace: "Mukherjee, N.", "<strong>Mukherjee, N.</strong>" }} {% if post.pubtype == "Preprints & Submitted Manuscripts" %}<em>({{ post.venue }})</em>{% endif %} {% if post.paperurl %}[<a href="{{ post.paperurl }}" target="_blank" rel="noopener">DOI</a>]{% endif %} [<a href="{{ base_path }}{{ post.url }}">More</a>]</p>
 {% endfor %}

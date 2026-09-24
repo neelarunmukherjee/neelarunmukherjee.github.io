@@ -7,7 +7,7 @@ date: 2026-01-10
 venue: 'Submitted, Under Review'
 pubtype: 'Preprints & Submitted Manuscripts'
 paperurl: 'https://doi.org/10.22541/essoar.15004629/v1'
-citation: 'Mukherjee, Neelarun, Bo Gao, Ethan T. Coon, Pin Shuai, Devon Hill, Bethany T. Neilson, George W. Kling, Jingyi Chen, and M. Bayani Cardenas. "The Effects of Precipitation Variability on Supra-Permafrost Thermal Hydrology: Flashy Hillslopes with More Outflow" '
+citation: 'Mukherjee, N., Gao, B., Coon, E.T., Shuai, P., Hill, D., Neilson, B.T., Kling, G.W., Chen, J. and Cardenas, M.B. "The Effects of Precipitation Variability on Supra-Permafrost Thermal Hydrology: Flashy Hillslopes with More Outflow."'
 ---
 Abstract: Warming in the Arctic is expected to lead to greater variability in rain precipitation. It is
 not yet known how this variability will affect the coupled hydrology and thermal dynamics of

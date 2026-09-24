@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About"
+excerpt: "Ph.D. candidate in Hydrology at UT Austin studying groundwater flow, reactive transport, and permafrost thaw in the Arctic."
 author_profile: true
 redirect_from: 
   - /about/

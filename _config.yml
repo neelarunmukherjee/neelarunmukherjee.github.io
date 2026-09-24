@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Neelarun Mukherjee"
 title_separator          : "-"
 name                     : &name "Neelarun Mukherjee"
-description              : &description "personal description"
+description              : &description "Ph.D. candidate in Hydrology at UT Austin studying groundwater flow, reactive transport, and permafrost thaw in the Arctic."
 url                      : https://neelarunmukherjee.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "neelarunmukherjee/neelarunmukherjee.github.io"
@@ -64,7 +64,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "nm-img1.JPG" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

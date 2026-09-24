@@ -1,10 +1,11 @@
 ---
 title: "Climate change impacts on supra-permafrost soil and aquifer hydrology: broader, deeper, and longer activity"
 collection: publications
-layout: publication
+layout: single
 permalink: /publication/2026_SciAdv_IC40y
 date: 2026-10-01
 venue: 'Submitted, Under Review'
+pubtype: 'Preprints & Submitted Manuscripts'
 paperurl: 'https://doi.org/10.48550/arXiv.2512.19860'
 citation: 'Mukherjee, Neelarun, Bo Gao, Ethan T. Coon, Pin Shuai, Devon Hill, Bethany T. Neilson, George W. Kling, Jingyi Chen, and M. Bayani Cardenas. "Climate change impacts on supra-permafrost soil and aquifer hydrology: broader, deeper, and longer activity." arXiv e-prints (2025): arXiv-2512.'
 ---

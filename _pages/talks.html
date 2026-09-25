@@ -11,9 +11,27 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-{% assign group = site.talks | sort: "date" %}
-{% assign count = group.size %}
-{% for post in group reversed %}
-  {% assign idx = count | minus: forloop.index | plus: 1 %}
-<p>[{{ idx }}] {{ post.title }}. {{ post.type }}, {{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %}, {{ post.date | date: "%B %-d, %Y" }}. {% if post.link %}[<a href="{{ post.link }}" target="_blank" rel="noopener">Link</a>]{% endif %} [<a href="{{ base_path }}{{ post.url }}">More</a>]</p>
+<style>
+  .talks__year { margin: 2em 0 0.5em; font-size: 1em; opacity: 0.55; letter-spacing: 0.05em; }
+  .talks__list { list-style: none; margin: 0; padding: 0; }
+  .talk { margin: 0 0 1.25em; }
+  .talk__title { font-weight: 600; text-decoration: none; color: inherit; }
+  .talk__title:hover { text-decoration: underline; }
+  .talk__type { display: inline-block; margin-right: 0.5em; padding: 0 0.45em; border: 1px solid currentColor; border-radius: 3px; font-size: 0.65em; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; vertical-align: 0.15em; opacity: 0.6; }
+  .talk__meta { margin: 0.15em 0 0; font-size: 0.8em; opacity: 0.8; }
+</style>
+
+{% assign talks = site.talks | sort: "date" | reverse %}
+{% assign years = talks | group_by_exp: "t", "t.date | date: '%Y'" %}
+{% for year in years %}
+<h2 class="talks__year">{{ year.name }}</h2>
+<ul class="talks__list">
+  {% for post in year.items %}
+  <li class="talk">
+    <div><span class="talk__type">{{ post.type }}</span><a class="talk__title" href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></div>
+    {% if post.authors %}<p class="talk__meta">{{ post.authors | replace: "Mukherjee, N.", "<strong>Mukherjee, N.</strong>" }}</p>{% endif %}
+    <p class="talk__meta">{{ post.venue }}{% if post.session %} {{ post.session }}{% endif %}{% if post.location %} · {{ post.location }}{% endif %}{% if post.link %} · <a href="{{ post.link }}" target="_blank" rel="noopener">Abstract</a>{% endif %}</p>
+  </li>
+  {% endfor %}
+</ul>
 {% endfor %}

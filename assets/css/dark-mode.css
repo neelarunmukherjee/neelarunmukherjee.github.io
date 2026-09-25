@@ -45,8 +45,29 @@ html[data-theme="dark"] .masthead {
   border-bottom-color: #333;
 }
 
+html[data-theme="dark"] .greedy-nav {
+  background: #1b1b1e;
+}
+
 html[data-theme="dark"] .masthead__menu-item a {
   color: #d7d7d7;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links {
+  background: #232326;
+  border-color: #333;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links:before {
+  border-color: #333 transparent;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links:after {
+  border-color: #232326 transparent;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links a:hover {
+  background: #2a2a2e;
 }
 
 html[data-theme="dark"] .greedy-nav a:hover,
